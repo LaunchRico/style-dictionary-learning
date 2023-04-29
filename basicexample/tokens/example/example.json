@@ -1,0 +1,10 @@
+{
+    "thisisthefirstelement": {
+        "thisisthesecondelement": {
+            "rojo": {
+                "rojo": { "value": "#FF0000" },
+                "rojito": { "value": "#FF7F50"}
+            }
+        }
+    }
+}
